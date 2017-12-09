@@ -1,0 +1,15 @@
+C:\Users\C09950A\Downloads\CreditCards-master\CreditCards-master\CreditCards.Core\bin\Debug\CreditCards.Core.dll.config
+C:\Users\C09950A\Downloads\CreditCards-master\CreditCards-master\CreditCards.Core\bin\Debug\CreditCards.Core.dll
+C:\Users\C09950A\Downloads\CreditCards-master\CreditCards-master\CreditCards.Core\bin\Debug\CreditCards.Core.pdb
+C:\Users\C09950A\Downloads\CreditCards-master\CreditCards-master\CreditCards.Core\bin\Debug\AutoMapper.dll
+C:\Users\C09950A\Downloads\CreditCards-master\CreditCards-master\CreditCards.Core\bin\Debug\EntityFramework.dll
+C:\Users\C09950A\Downloads\CreditCards-master\CreditCards-master\CreditCards.Core\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\C09950A\Downloads\CreditCards-master\CreditCards-master\CreditCards.Core\bin\Debug\AutoMapper.xml
+C:\Users\C09950A\Downloads\CreditCards-master\CreditCards-master\CreditCards.Core\bin\Debug\EntityFramework.xml
+C:\Users\C09950A\Downloads\CreditCards-master\CreditCards-master\CreditCards.Core\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\C09950A\Downloads\CreditCards-master\CreditCards-master\CreditCards.Core\obj\Debug\CreditCards.Core.csprojResolveAssemblyReference.cache
+C:\Users\C09950A\Downloads\CreditCards-master\CreditCards-master\CreditCards.Core\obj\Debug\CreditCards.Core.csproj.CoreCompileInputs.cache
+C:\Users\C09950A\Downloads\CreditCards-master\CreditCards-master\CreditCards.Core\obj\Debug\CreditCards.Core.dll
+C:\Users\C09950A\Downloads\CreditCards-master\CreditCards-master\CreditCards.Core\obj\Debug\CreditCards.Core.pdb
+C:\Users\C09950A\Downloads\CreditCards-master\CreditCards-master\CreditCards.Core\obj\Debug\CreditCards.Core.Migrations.addTables.resources
+C:\Users\C09950A\Downloads\CreditCards-master\CreditCards-master\CreditCards.Core\obj\Debug\CreditCards.Core.csproj.GenerateResource.Cache

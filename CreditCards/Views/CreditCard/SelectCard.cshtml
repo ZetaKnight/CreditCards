@@ -1,0 +1,33 @@
+﻿@model CreditCards.ViewModel.CreditCardViewModel
+
+<h1>
+    @Html.ActionLink("Back", "Create")
+</h1>
+
+<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css">
+<div class="container col-md-12">
+    <div class="col-md-4">
+        <i class="fa fa-credit-card" style="font-size: 100px;"></i>
+    </div>
+    <div class="col-md-6">
+        <div class="col-md-6 col-md-offset-6">
+            @Html.DisplayNameFor(model => model.Name)
+        </div>
+        <div class="col-md-6 col-md-offset-6">
+            @Html.DisplayFor(model => model.Name)
+        </div>
+        <div class="col-md-6 col-md-offset-6">
+            @Html.DisplayNameFor(model => model.Apr)
+        </div>
+        <div class="col-md-6 col-md-offset-6">
+            @Html.DisplayFor(model => model.Apr)
+        </div>
+        <div class="col-md-6 col-md-offset-6">
+            @Html.DisplayNameFor(model => model.PromoMessage)
+        </div>
+        <div class="col-md-6 col-md-offset-6">
+            @Html.DisplayFor(model => model.PromoMessage)
+        </div>
+    </div>
+
+</div>
