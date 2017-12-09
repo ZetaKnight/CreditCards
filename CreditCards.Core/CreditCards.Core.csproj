@@ -56,9 +56,9 @@
     <Compile Include="Infrastructure\Context\CreditCardDbContext.cs" />
     <Compile Include="Infrastructure\EntityConfig\CreditCardConfiguration.cs" />
     <Compile Include="Infrastructure\EntityConfig\UserApplicationConfiguration.cs" />
-    <Compile Include="Migrations\201712091332153_addTables.cs" />
-    <Compile Include="Migrations\201712091332153_addTables.Designer.cs">
-      <DependentUpon>201712091332153_addTables.cs</DependentUpon>
+    <Compile Include="Migrations\201712091750048_init.cs" />
+    <Compile Include="Migrations\201712091750048_init.Designer.cs">
+      <DependentUpon>201712091750048_init.cs</DependentUpon>
     </Compile>
     <Compile Include="Migrations\Configuration.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -72,8 +72,8 @@
     <None Include="packages.config" />
   </ItemGroup>
   <ItemGroup>
-    <EmbeddedResource Include="Migrations\201712091332153_addTables.resx">
-      <DependentUpon>201712091332153_addTables.cs</DependentUpon>
+    <EmbeddedResource Include="Migrations\201712091750048_init.resx">
+      <DependentUpon>201712091750048_init.cs</DependentUpon>
     </EmbeddedResource>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

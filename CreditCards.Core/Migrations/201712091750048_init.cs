@@ -3,7 +3,7 @@ namespace CreditCards.Core.Migrations
     using System;
     using System.Data.Entity.Migrations;
     
-    public partial class addTables : DbMigration
+    public partial class init : DbMigration
     {
         public override void Up()
         {
